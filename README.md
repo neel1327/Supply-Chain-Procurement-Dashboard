@@ -1,7 +1,7 @@
 # Supply-Chain-Procurement-Dashboard
 **Overview**
 
-Built a Supply Chain Analytics Dashboard by transforming procurement data using SQL and visualizing insights in Power BI, focusing on supplier performance and cost optimization. Developed key metrics such as Total Cost, Revenue, Profit, and Cost per Unit to support data-driven business decisions.
+Designed and developed an end-to-end Supply Chain Analytics Dashboard by transforming and structuring raw procurement data using SQL, and visualizing actionable insights in Power BI, with a focus on supplier performance, cost optimization, and financial analysis. Performed data cleaning and feature engineering to create a robust analytical dataset, and built interactive dashboards to monitor procurement activities across suppliers and locations. Developed and analyzed key business metrics such as Total Cost, Revenue, Profit, and Cost per Unit, enabling efficient tracking of financial performance, identification of cost-saving opportunities, and supporting data-driven decision-making for optimizing procurement strategies and improving operational efficiency.
 
 **Summary in Points**
 1. Built an end-to-end Supply Chain Analytics Dashboard using SQL and Power BI to analyze procurement and supplier data
